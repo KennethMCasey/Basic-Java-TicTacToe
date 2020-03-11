@@ -1,0 +1,18 @@
+
+
+
+A New Gaming Session Has Now Started.
+
+
+A New Gaming Session Has Now Started.
+
+
+The cell occupied in this turn was 0-0: the character played was a(n) O
+The cell occupied in this turn was 1-1: the character played was a(n) X
+The cell occupied in this turn was 2-0: the character played was a(n) O
+The cell occupied in this turn was 2-1: the character played was a(n) X
+The cell occupied in this turn was 1-0: the character played was a(n) O
+This was the winning move.
+
+
+A New Game has now started.
